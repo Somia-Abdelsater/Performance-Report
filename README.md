@@ -72,4 +72,4 @@ If you have suggestions or improvements, feel free to fork the repository and su
 
 ## Contact
 
-For questions or feedback, reach out to [Your Name](mailto:SomiaAbdelsater@gmail.com).
+For questions or feedback, reach out to [Somia Abdelsater](mailto:SomiaAbdelsater@gmail.com).
